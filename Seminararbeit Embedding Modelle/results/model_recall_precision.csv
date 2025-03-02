@@ -1,0 +1,6 @@
+Model,Recall,Precision
+BERT,1.0,1.0
+Sentence Transformers,1.0,1.0
+GloVe,1.0,0.2
+FastText,1.0,0.2702702702702703
+Word2Vec,1.0,1.0
